@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="67b94609-a460-4874-aae4-3382698d65e3" name="skydata_server" url="http://192.168.50.250">
+        <fileTransfer host="192.168.50.250" port="54200" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="54200" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
